@@ -1,0 +1,3 @@
+# Linux/macOS usually need no extra packages.
+# On Windows, curses support comes from:
+windows-curses>=2.3.0
