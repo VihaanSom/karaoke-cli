@@ -48,5 +48,5 @@ Expected Output:
 ```bash
 python karaoke.py your_song.mp3 your_song.lrc
 ```
-
+(I have not inclucded any .mp3 files due to copyright issue but but you can just put it at root folder of project.)
 ---
